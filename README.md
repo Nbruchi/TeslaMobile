@@ -1,2 +1,2 @@
 # Tesla Clone
-* Tesla app for mobile devices  - Especially android*
+* Tesla app for mobile devices  - Especially android *
